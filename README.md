@@ -1,5 +1,7 @@
 # M2DTSP: Multi-modal Feature Fusion for Drug-Target Binding Site Prediction in Drug Design
 
+![model](image/model.png)
+
 ## Core Features
 
 ### Multi-modal Feature Fusion
@@ -32,3 +34,10 @@ Access the interactive prediction platform: [http://47.104.134.46:2000/ppipredic
 - **PDB/SMILES Upload Interface**
 - **3D Binding Site Visualization** (NGL-powered)
 - **Affinity Value Reporting**
+
+### Validation Case
+- **SARS-CoV-2 RdRp + Remdesivir Results**
+  -SARS-CoV-2 RdRp Results .
+  ![RdRp](image/protein.png)
+  -Remdesivir Results .
+  ![Remdesivir](image/drug.png)
