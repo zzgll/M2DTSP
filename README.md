@@ -28,7 +28,7 @@
   - Gradient-weighted activation mapping for binding site localization.
 
 ## Web Platform
-Access the interactive prediction platform: [http://47.104.134.46:2000/ppipredict](http://47.104.134.46:2000/dtsp)
+Access the interactive prediction platform: [http://47.104.134.46:2000/dtsp](http://47.104.134.46:2000/dtsp)
 
 ### Key Features:
 - **PDB/SMILES Upload Interface**
