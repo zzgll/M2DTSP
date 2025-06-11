@@ -37,7 +37,5 @@ Access the interactive prediction platform: [http://47.104.134.46:2000/ppipredic
 
 ### Validation Case
 - **SARS-CoV-2 RdRp + Remdesivir Results**
-  -SARS-CoV-2 RdRp Results .
   ![RdRp](image/protein.png)
-  -Remdesivir Results .
   ![Remdesivir](image/drug.png)
